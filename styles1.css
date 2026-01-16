@@ -1,0 +1,30 @@
+
+.about-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+.team-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.team-member {
+    text-align: center;
+    width: 200px;
+    border: 180px;
+}
+
+.team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+body{
+    background-color: rgb(19, 19, 102);
+    color: antiquewhite;
+    
+}
